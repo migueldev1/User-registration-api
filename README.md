@@ -14,6 +14,7 @@ API REST da aplicação Cadastro de Usuários, construído com Node.js, Express 
 
 - CRUD completo de usuários (criar, ler, atualizar, deletar)
 - Banco de dados gerenciado via Prisma
+- API RESTful com rotas bem definidas
 
 ## Endpoints principais
 POST /usuarios - Cria um novo usuário
@@ -30,6 +31,7 @@ DELETE /usuarios/:id - Remove usuário pelo ID
 
 ```bash
 git clone https://github.com/migueldev1/user-registration-api.git
+cd user-registration-api
 ```
 2. Instale as dependências:
 
