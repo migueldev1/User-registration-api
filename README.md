@@ -50,7 +50,7 @@ npx prisma generate
 Inicie o servidor:
 
 ```bash
-npm run dev
+npm start
 ```
 
 A API estará rodando em http://localhost:3000
